@@ -59,9 +59,3 @@
 ----
 
 本书内容几乎完全来源于网络。
-
-开源项目地址：[https://github.com/hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)，整理人 [hustcc](https://github.com/hustcc)。
-
-GitBook 在线阅读地址：[https://sort.hust.cc/](https://sort.hust.cc/)。
-
-本项目使用 [hint](https://github.com/hustcc/hint) 进行中文 Markdown 文件的格式检查，务必在提交 Pr 之前，保证 Markdown 格式正确。
